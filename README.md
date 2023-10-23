@@ -1,6 +1,6 @@
 # Algorithmic Programming Exercises using Python
 
-This repository contains a list of Python scripts, each one solving an exercise from the online platform "Codewars", whose difficulty and text are stated in a comment at the beginning of the file.
+This repository contains a list of Python scripts, each one solving an exercise from the online platform "codewars.com", whose difficulty and text are stated in a comment at the beginning of the file.
 
 The difficulty ranges from **8 kyu** (*easiest*) to **8 dan** (*hardest*), as listed below:
 
